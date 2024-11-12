@@ -1,0 +1,8 @@
+Reporte de Carros:
+=====================
+ID: 1
+Marca: Chevrolet
+Modelo: Aveo
+Placa: JK9-HXX
+---------------------
+Fin del reporte
